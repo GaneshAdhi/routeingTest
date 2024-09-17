@@ -1,0 +1,26 @@
+.about-main-container {
+  align-self: center;
+  margin-top: 10rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.about-logo {
+  height: 10rem;
+  width: 10rem;
+}
+
+.about-titile {
+  font-size: 2.5rem;
+  font-family: Roboto;
+  color: #551e53;
+}
+
+.para-about {
+  font-family: Roboto;
+  font-size: 1.5rem;
+  color: #555555;
+}
